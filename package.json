@@ -1,5 +1,5 @@
 {
-  "name": "@jsonurl/jsonurl",
+  "name": "@aidenlx/jsonurl",
   "version": "1.0.0-SNAPSHOT",
   "publishConfig": {
     "access": "public"
